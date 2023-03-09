@@ -3,33 +3,31 @@
 Repository Ini Berisi Pengalaman Belajar di Dicoding
 
 
-**14 Juni 2021**  
+**21 Februari 2023**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+Belajar kelas Belajar Dasar Pemrograman Web. (Progres 21%)
 
-  * Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tentang HTML dan CSS beserta pengenalan dan pendalamannya.
 
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+  * Belajar membuat web dengan menggunakan HTML dan CSS yang baik.
 
 
 **15 Juni 2021**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+Belajar kelas Belajar Dasar Pemrograman Web. (Progres 56%)
 
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+  * Belajar dasar dasar layout responsif dengan flexbox.
 
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+  * Belajar apa saja properti properti pada flex container dan flex item.
 
-  * Belajar tipe data koleksi, seperti list, set, dan map.
+  * Belajar mengimplementasikan kepada web yang telah dibuat sebelumnya.
 
-**20 Juni 2021**  
+**01 Maret 2023**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+Belajar kelas Belajar Dasar Pemrograman Web. (Progres 100%)
 
-  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+  * Melaksanakan task dengan mengimplementasikan semua pembelajaran yang telah dipelajari.
 
-  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
-
-  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
+  * Membuat landing page dari sebuah web dengan tema jual cemilan UMKM 
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
